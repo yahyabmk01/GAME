@@ -1,0 +1,111 @@
+@import "tailwindcss";
+
+@theme {
+  --font-cinzel: 'Cinzel', serif;
+  --font-lora: 'Lora', Georgia, serif;
+
+  --color-sandstone: #D9B98A;
+  --color-parchment: #EBD9B4;
+  --color-gold: #C9993A;
+  --color-gold-light: #E0BC62;
+  --color-dark-brown: #1E140D;
+  --color-deep-blue: #1B2A41;
+  --color-torch-orange: #E8883A;
+}
+
+body {
+  font-family: 'Lora', Georgia, serif;
+  background-color: #1E140D;
+  color: #EBD9B4;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', serif;
+}
+
+.font-lora {
+  font-family: 'Lora', Georgia, serif;
+}
+
+/* Torchlight ambient animation */
+@keyframes torchFlicker {
+  0%, 100% {
+    opacity: 0.85;
+    transform: scale(1);
+    filter: drop-shadow(0 0 25px rgba(232, 136, 58, 0.35));
+  }
+  25% {
+    opacity: 0.95;
+    transform: scale(1.02) translateY(-1px);
+    filter: drop-shadow(0 0 35px rgba(232, 136, 58, 0.45));
+  }
+  50% {
+    opacity: 0.8;
+    transform: scale(0.99) translateY(1px);
+    filter: drop-shadow(0 0 20px rgba(232, 136, 58, 0.3));
+  }
+  75% {
+    opacity: 0.92;
+    transform: scale(1.01);
+    filter: drop-shadow(0 0 30px rgba(232, 136, 58, 0.4));
+  }
+}
+
+.animate-torch {
+  animation: torchFlicker 4s ease-in-out infinite alternate;
+}
+
+/* Corner ornament bracket borders */
+.ancient-frame {
+  position: relative;
+  border: 1px solid rgba(201, 153, 58, 0.35);
+  background: rgba(30, 20, 13, 0.78);
+  backdrop-filter: blur(12px);
+}
+
+.ancient-frame::before,
+.ancient-frame::after {
+  content: '';
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  pointer-events: none;
+}
+
+.ancient-frame::before {
+  top: -1px;
+  left: -1px;
+  border-top: 2px solid #C9993A;
+  border-left: 2px solid #C9993A;
+}
+
+.ancient-frame::after {
+  bottom: -1px;
+  right: -1px;
+  border-bottom: 2px solid #C9993A;
+  border-right: 2px solid #C9993A;
+}
+
+.ancient-corner-tr {
+  position: absolute;
+  top: -1px;
+  right: -1px;
+  width: 10px;
+  height: 10px;
+  border-top: 2px solid #C9993A;
+  border-right: 2px solid #C9993A;
+  pointer-events: none;
+}
+
+.ancient-corner-bl {
+  position: absolute;
+  bottom: -1px;
+  left: -1px;
+  width: 10px;
+  height: 10px;
+  border-bottom: 2px solid #C9993A;
+  border-left: 2px solid #C9993A;
+  pointer-events: none;
+}

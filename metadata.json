@@ -1,0 +1,6 @@
+{
+  "name": "The Case of Yusuf",
+  "description": "A three-player online courtroom mystery based on the Joseph/Yusuf narrative.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
