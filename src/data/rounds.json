@@ -1,0 +1,47 @@
+[
+  {
+    "id": "round_1",
+    "title": "The Noble Household",
+    "number": 1,
+    "question": "What does the torn tunic actually prove?",
+    "durationSeconds": 300,
+    "exhibitIds": [
+      "exhibit_torn_tunic",
+      "exhibit_chamberlain_deposition",
+      "exhibit_women_banquet",
+      "exhibit_household_keys",
+      "exhibit_witness_testimony",
+      "exhibit_prison_transfer"
+    ]
+  },
+  {
+    "id": "round_2",
+    "title": "The Sacks at the Lodging Place",
+    "number": 2,
+    "question": "Was the returned silver an act of benevolence or a pharaonic trap?",
+    "durationSeconds": 300,
+    "exhibitIds": [
+      "exhibit_returned_silver",
+      "exhibit_granary_manifest",
+      "exhibit_canaan_starvation_plea",
+      "exhibit_simeon_bonds",
+      "exhibit_secret_steward_order",
+      "exhibit_jacob_letter"
+    ]
+  },
+  {
+    "id": "round_3",
+    "title": "The Border Inspection",
+    "number": 3,
+    "question": "Who planted the divining cup, and can Benjamin be saved?",
+    "durationSeconds": 300,
+    "exhibitIds": [
+      "exhibit_royal_goblet",
+      "exhibit_famine_decree",
+      "exhibit_blood_stained_cloak",
+      "exhibit_judah_pledge",
+      "exhibit_divining_records",
+      "exhibit_reconciliation_verdict"
+    ]
+  }
+]

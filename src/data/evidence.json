@@ -1,0 +1,397 @@
+[
+  {
+    "id": "exhibit_torn_tunic",
+    "number": "Exhibit 1.1",
+    "title": "The Torn Tunic (Qamīs)",
+    "shortLabel": "Torn Tunic",
+    "category": "Physical Relic",
+    "roundId": "round_1",
+    "tier": "strong",
+    "points": 3,
+    "description": "A fine Egyptian linen tunic with torn fabric fibers along the posterior shoulder seam. The central physical exhibit in the palace accusation.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:26-28)",
+        "text": "A witness from her household testified: 'If his garment is torn from the front, she has spoken truth and he is of the liars. But if it is torn from the back, she has lied and he is truthful.'"
+      },
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 39:12-15",
+        "text": "She caught him by his garment, saying, 'Lie with me.' But he left his garment in her hand and fled. And when she saw that he had left his garment... she called to the men of her house."
+      }
+    ],
+    "forensicFinding": "Posterior tearing demonstrates force exerted from behind while fleeing, directly corroborating defensive retreat.",
+    "relevantRoles": ["household", "authorities"]
+  },
+  {
+    "id": "exhibit_chamberlain_deposition",
+    "number": "Exhibit 1.2",
+    "title": "Deposition of Grand Chamberlain Al-Aziz",
+    "shortLabel": "Aziz Deposition",
+    "category": "Witness Deposition",
+    "roundId": "round_1",
+    "tier": "strong",
+    "points": 3,
+    "description": "Official chamberlain administrative roll documenting Yusuf's unblemished stewardship of the noble estate and private affairs.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:51)",
+        "text": "The King asked the women: 'What was your affair when you sought to seduce Yusuf?' They said: 'Allah forbid! We know no evil against him.' The wife of Al-Aziz said: 'Now truth is manifest: it was I who sought to seduce him.'"
+      },
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 39:4-6",
+        "text": "Joseph found favor in his sight and served him, and he made him overseer over his house, and all that he had he put into his hand."
+      }
+    ],
+    "forensicFinding": "The master's immediate reaction did not mandate execution—customary for domestic treason—proving lingering moral doubt.",
+    "relevantRoles": ["household", "brothers"]
+  },
+  {
+    "id": "exhibit_women_banquet",
+    "number": "Exhibit 1.3",
+    "title": "Citrus Banquet Paring Knives",
+    "shortLabel": "Banquet Knives",
+    "category": "Physical Relic",
+    "roundId": "round_1",
+    "tier": "standard",
+    "points": 1,
+    "description": "Bronze ceremonial fruit paring blades from the noble banquet of the city wives, cited as proof of irresistible awe.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:31)",
+        "text": "She gave each of them a knife and said, 'Come out before them.' When they saw him, they greatly admired him and cut their hands, saying, 'Allah forbid! This is not a human being; this is none but a noble angel!'"
+      }
+    ],
+    "forensicFinding": "Shows the societal pressure and palace gossip surrounding the household prior to formal detention.",
+    "relevantRoles": ["household"]
+  },
+  {
+    "id": "exhibit_household_keys",
+    "number": "Exhibit 1.4",
+    "title": "Chamberlain Bronze Master Seal",
+    "shortLabel": "Master Keys",
+    "category": "Imperial Decree",
+    "roundId": "round_1",
+    "tier": "standard",
+    "points": 1,
+    "description": "The bronze ring seal granting unrestricted entry to inner storerooms and royal household ledgers.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 39:6",
+        "text": "He left all that he had in Joseph's charge, and because of him he had no concern about anything but the food he ate."
+      }
+    ],
+    "forensicFinding": "Complete fiduciary trust was placed in the Hebrew overseer without co-signatory requirements.",
+    "relevantRoles": ["authorities", "household"]
+  },
+  {
+    "id": "exhibit_witness_testimony",
+    "number": "Exhibit 1.5",
+    "title": "Testimony of the Household Sage",
+    "shortLabel": "Sage Testimony",
+    "category": "Witness Deposition",
+    "roundId": "round_1",
+    "tier": "standard",
+    "points": 1,
+    "description": "Deposition recorded by a relation of the household who formulated the legal test of the torn garment.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:26)",
+        "text": "And a witness from her family testified: 'If his garment is torn from the front...'"
+      }
+    ],
+    "forensicFinding": "Neutral domestic arbitrator proposed mathematical evidence rather than reliance on verbal oaths.",
+    "relevantRoles": ["household", "authorities"]
+  },
+  {
+    "id": "exhibit_prison_transfer",
+    "number": "Exhibit 1.6",
+    "title": "Royal Fortress Prison Ledger",
+    "shortLabel": "Prison Ledger",
+    "category": "Border Record",
+    "roundId": "round_1",
+    "tier": "standard",
+    "points": 1,
+    "description": "Papyrus ledger from the fortress where the king's prisoners were bound, noting Yusuf's appointment as trustee inside.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 39:20-22",
+        "text": "Joseph's master took him and put him into the prison... but the Lord was with Joseph and gave him favor in the sight of the keeper of the prison."
+      },
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:35)",
+        "text": "Then it occurred to them after seeing the signs that they must imprison him for a time."
+      }
+    ],
+    "forensicFinding": "Imprisonment was enacted for political expediency to silence noble scandal, not due to substantiated guilt.",
+    "relevantRoles": ["authorities"]
+  },
+  {
+    "id": "exhibit_returned_silver",
+    "number": "Exhibit 2.1",
+    "title": "Returned Silver in the Grain Sacks",
+    "shortLabel": "Returned Silver",
+    "category": "Physical Relic",
+    "roundId": "round_2",
+    "tier": "strong",
+    "points": 3,
+    "description": "Sealed pouches containing the exact silver shekels paid by the brothers, secretly replaced inside each sack mouth.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 42:27-28",
+        "text": "As one opened his sack... he saw his money in the mouth of his sack: 'My money has been returned! It is right here in my sack!'"
+      },
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:62)",
+        "text": "Yusuf said to his servants: 'Put their merchandise back into their saddlebags so that they may recognize it when they return to their family, that perhaps they will come back.'"
+      }
+    ],
+    "forensicFinding": "Egyptian granary seals remained intact on the sacks, proving the treasure was deposited prior to convoy departure.",
+    "relevantRoles": ["brothers", "authorities"]
+  },
+  {
+    "id": "exhibit_granary_manifest",
+    "number": "Exhibit 2.2",
+    "title": "Memphis Granary Export Manifest",
+    "shortLabel": "Granary Manifest",
+    "category": "Imperial Decree",
+    "roundId": "round_2",
+    "tier": "strong",
+    "points": 3,
+    "description": "Imperial inventory roll documenting famine grain allocations granted per foreigner entering through Goshen.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:59)",
+        "text": "When he had provided them with their provisions, he said, 'Bring me a brother of yours from your father. Do you not see that I give full measure and that I am the best of hosts?'"
+      }
+    ],
+    "forensicFinding": "One camel-load was allocated per individual; Benjamin's absence on trip one restricted the brothers' quota.",
+    "relevantRoles": ["authorities", "brothers"]
+  },
+  {
+    "id": "exhibit_canaan_starvation_plea",
+    "number": "Exhibit 2.3",
+    "title": "Canaanite Famine Starvation Plea",
+    "shortLabel": "Starvation Plea",
+    "category": "Witness Deposition",
+    "roundId": "round_2",
+    "tier": "standard",
+    "points": 1,
+    "description": "Testimony documenting desperate famine in Canaan, refuting the crown allegation of military espionage.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 42:1-2",
+        "text": "When Jacob learned that there was grain for sale in Egypt, he said to his sons... 'Go down and buy grain for us there, that we may live and not die.'"
+      }
+    ],
+    "forensicFinding": "The brothers entered through ten separate city gates to forage food quietly, misconstrued as hostile intelligence-gathering.",
+    "relevantRoles": ["brothers"]
+  },
+  {
+    "id": "exhibit_simeon_bonds",
+    "number": "Exhibit 2.4",
+    "title": "Detention Chains of Simeon",
+    "shortLabel": "Simeon Bonds",
+    "category": "Physical Relic",
+    "roundId": "round_2",
+    "tier": "standard",
+    "points": 1,
+    "description": "Iron shackle inventory recording Simeon detained as hostage while the others returned for Benjamin.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 42:24",
+        "text": "He turned away from them and wept. And he returned to them and spoke to them. And he took Simeon from them and bound him before their eyes."
+      }
+    ],
+    "forensicFinding": "Hostage was kept in comfortable governor quarters rather than penal mines, indicating protective custody.",
+    "relevantRoles": ["brothers", "authorities"]
+  },
+  {
+    "id": "exhibit_secret_steward_order",
+    "number": "Exhibit 2.5",
+    "title": "Governor's Secret Steward Order",
+    "shortLabel": "Steward Order",
+    "category": "Imperial Decree",
+    "roundId": "round_2",
+    "tier": "standard",
+    "points": 1,
+    "description": "Private command tablet instructing granary steward Menasseh to double provisions and conceal the silver.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 43:23",
+        "text": "The steward said: 'Peace be with you, do not be afraid. Your God and the God of your father has given you treasure in your sacks; I received your money.'"
+      }
+    ],
+    "forensicFinding": "Confirms intentional benevolence and moral trial engineered entirely from the executive bench.",
+    "relevantRoles": ["authorities", "household"]
+  },
+  {
+    "id": "exhibit_jacob_letter",
+    "number": "Exhibit 2.6",
+    "title": "Patriarch Jacob's Consignment Gift",
+    "shortLabel": "Jacob Gift",
+    "category": "Border Record",
+    "roundId": "round_2",
+    "tier": "standard",
+    "points": 1,
+    "description": "Tribute jar containing Canaanite balm, honey, gum, myrrh, pistachio nuts, and almonds offered to appease the ruler.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 43:11-12",
+        "text": "Take some of the choice fruits of the land in your bags, and carry a present down to the man... take double the money with you."
+      }
+    ],
+    "forensicFinding": "Substantiates honest merchant intent to repay any clerical error doublefold.",
+    "relevantRoles": ["brothers"]
+  },
+  {
+    "id": "exhibit_royal_goblet",
+    "number": "Exhibit 3.1",
+    "title": "The Royal Divining Goblet (Siqāyah)",
+    "shortLabel": "Silver Goblet",
+    "category": "Physical Relic",
+    "roundId": "round_3",
+    "tier": "strong",
+    "points": 3,
+    "description": "An engraved electrum goblet used by the vizier for drinking and divination, discovered inside Benjamin's grain sack.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:70-75)",
+        "text": "A herald called out: 'O caravan! You are thieves!' They said: 'What is missing?' They replied: 'The king's drinking cup, and whoever brings it shall have a camel-load of grain.'"
+      },
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 44:2-5",
+        "text": "'Put my silver cup in the mouth of the sack of the youngest...' Is this not the cup my lord drinks from and uses for divination?"
+      }
+    ],
+    "forensicFinding": "Grain surrounding the goblet was completely unpacked and pristine, proving it was planted without Benjamin's knowledge.",
+    "relevantRoles": ["authorities", "brothers"]
+  },
+  {
+    "id": "exhibit_judah_pledge",
+    "number": "Exhibit 3.2",
+    "title": "Judah's Surety Bond & Plea",
+    "shortLabel": "Judah Pledge",
+    "category": "Witness Deposition",
+    "roundId": "round_3",
+    "tier": "strong",
+    "points": 3,
+    "description": "Formal personal bond by Judah offering his own life as permanent slave in exchange for Benjamin's liberation.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 44:33",
+        "text": "Now therefore, please let your servant remain instead of the boy as a servant to my lord, and let the boy go back with his brothers."
+      },
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:78-80)",
+        "text": "They said: 'O Aziz! Indeed he has a father who is an old man, so take one of us in his place.' The eldest said: 'Do you not know that your father took an oath from you by Allah?'"
+      }
+    ],
+    "forensicFinding": "Proves the brothers reversed the historical crime of selling Joseph into slavery by sacrificing their freedom for Rachel's younger son.",
+    "relevantRoles": ["brothers"]
+  },
+  {
+    "id": "exhibit_famine_decree",
+    "number": "Exhibit 3.3",
+    "title": "Seven-Year Granary Imperial Decree",
+    "shortLabel": "Imperial Decree",
+    "category": "Imperial Decree",
+    "roundId": "round_3",
+    "tier": "standard",
+    "points": 1,
+    "description": "Royal decree granting Yusuf unilateral authority over Egyptian borders, grain reserves, and statutory jurisprudence.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 41:40",
+        "text": "You shall be over my house... only in regard to the throne will I be greater than you."
+      }
+    ],
+    "forensicFinding": "Yusuf held full executive power to pardon, release, or sentence foreign nationals at will.",
+    "relevantRoles": ["authorities"]
+  },
+  {
+    "id": "exhibit_blood_stained_cloak",
+    "number": "Exhibit 3.4",
+    "title": "The False Blood Coat from Dothan",
+    "shortLabel": "False Blood Coat",
+    "category": "Physical Relic",
+    "roundId": "round_3",
+    "tier": "standard",
+    "points": 1,
+    "description": "The colorful tunic dipped in goat blood twenty years prior, brought to Jacob to simulate predatory beast death.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:18)",
+        "text": "And they came with his shirt stained with false blood. Jacob said: 'Nay, but your souls have enticed you to something. Patience is most fitting.'"
+      }
+    ],
+    "forensicFinding": "The shirt had no claw tears, which exposed the brothers' original deceit to Jacob.",
+    "relevantRoles": ["brothers", "household"]
+  },
+  {
+    "id": "exhibit_divining_records",
+    "number": "Exhibit 3.5",
+    "title": "Egyptian Divination Protocol Tablet",
+    "shortLabel": "Divining Tablet",
+    "category": "Imperial Decree",
+    "roundId": "round_3",
+    "tier": "standard",
+    "points": 1,
+    "description": "Temple register recording the ritual functions of the king's electrum silver cup in observing omens.",
+    "scriptureReferences": [
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 44:15",
+        "text": "Joseph said to them: 'What deed is this that you have done? Do you not know that a man like me can indeed practice divination?'"
+      }
+    ],
+    "forensicFinding": "The cup theft carried diplomatic and sacred treason penalties under statutory Pharaonic code.",
+    "relevantRoles": ["authorities"]
+  },
+  {
+    "id": "exhibit_reconciliation_verdict",
+    "number": "Exhibit 3.6",
+    "title": "Decree of Full Imperial Pardon",
+    "shortLabel": "Imperial Pardon",
+    "category": "Imperial Decree",
+    "roundId": "round_3",
+    "tier": "standard",
+    "points": 1,
+    "description": "The closing proclamation of Yusuf revealing his identity and settling Jacob's house in the fertile land of Goshen.",
+    "scriptureReferences": [
+      {
+        "tradition": "Quran",
+        "citation": "Surah Yusuf (12:92)",
+        "text": "He said: 'No blame will there be upon you today. Allah will forgive you; and He is the most merciful of the merciful.'"
+      },
+      {
+        "tradition": "Genesis",
+        "citation": "Genesis 45:3-5",
+        "text": "Joseph said to his brothers: 'I am Joseph! Does my father still live?'... 'Do not be distressed or angry with yourselves because you sold me here, for God sent me before you to preserve life.'"
+      }
+    ],
+    "forensicFinding": "Ultimate legal conclusion: reconciliation and sovereign preservation over vengeance.",
+    "relevantRoles": ["brothers", "household", "authorities"]
+  }
+]

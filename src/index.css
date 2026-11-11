@@ -21,6 +21,31 @@ body {
   overflow-x: hidden;
 }
 
+/* Remove default Chrome / browser scrollbar completely on styled containers */
+.no-scrollbar {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+/* Sleek ancient subtle scrollbar fallback for any other scrolling elements */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(30, 20, 13, 0.8);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(201, 153, 58, 0.4);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 217, 136, 0.7);
+}
+
 .font-cinzel {
   font-family: 'Cinzel', serif;
 }
@@ -50,6 +75,16 @@ body {
     opacity: 0.92;
     transform: scale(1.01);
     filter: drop-shadow(0 0 30px rgba(232, 136, 58, 0.4));
+  }
+}
+
+/* Scroll unsealing tremor */
+@keyframes wiggle {
+  0%, 100% {
+    transform: rotate(-3deg) scale(1.03);
+  }
+  50% {
+    transform: rotate(3deg) scale(0.97);
   }
 }
 
